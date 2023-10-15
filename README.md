@@ -1,2 +1,2 @@
-# mydemo
-My first repository 
+# myproject-DEMO
+My first GIT repository 
